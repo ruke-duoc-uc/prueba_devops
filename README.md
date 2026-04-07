@@ -1,11 +1,9 @@
 # README Cristóbal Loncón
 
+## Modalidad de Trabajo : **Gitflow**
+
 - [Porque Gitflow](#porque-gitflow)
 - [Archivos.md](#archivos-md)
-
-# Modalidad de trabajo
-
-## **GitFlow**
 
 ### ¿Porque GitFlow?
 
